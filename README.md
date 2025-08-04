@@ -13,9 +13,9 @@ Watch a short demo of the core flow:
 - Capture a single photo of multiple organized items
 - Detect and crop objects using ML Kit
 - Analyze each item with Gemini API
-- Display and edit labeled results in a dynamic repeater form
+- Display and edit labeled results in a dynamic form
 
-👉 [View Demo Video](https://drive.google.com/file/d/1-VuDN4p8-N8clkrakhw6dWXIp-WNyLFG/view?usp=drive_link)
+👉 [View Demo Video](https://drive.google.com/file/d/1cir8nJ6NVeL_AofV7UV2Y8U32_1Lpxdc/view?usp=sharing)
 
 ---
 
