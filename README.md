@@ -16,7 +16,7 @@ Watch a short demo of the core flow:
 - Display and edit labeled results in a dynamic form
 
   
-👉 [View Demo Video - First 2 months(initial)](https://drive.google.com/file/d/1-VuDN4p8-N8clkrakhw6dWXIp-WNyLFG/view?usp=drive_link)
+👉 [View Demo Video - First 2 months(initial)](https://drive.google.com/file/d/1-VuDN4p8-N8clkrakhw6dWXIp-WNyLFG/view?usp=drive_link) ->
 👉 [View Demo Video - 3rd month progress](https://drive.google.com/file/d/1cir8nJ6NVeL_AofV7UV2Y8U32_1Lpxdc/view?usp=sharing)
 
 ---
